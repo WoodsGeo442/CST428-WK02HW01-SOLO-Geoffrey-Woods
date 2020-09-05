@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Adroid Code Review</string>
+    <string name="username">Username:</string>
+    <string name="password">Password</string>
+    <string name="password1">Password:</string>
+    <string name="usernameText">Username:</string>
+    <string name="passwordLabel">Password:</string>
+    <string name="loginButton">Login</string>
+    <string name="passwordHint">Password</string>
+    <string name="usernameHint">Username</string>
+    <string name="welcome_admin1">Welcome Admin1!</string>
+</resources>
